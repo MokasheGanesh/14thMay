@@ -6,7 +6,7 @@ public class Dashboard {
 		
 		
 		System.out.println("dashboard cases");
-		System.out.println("dashboard completed");
+		System.out.println("completed");
 	}
 	
 	
